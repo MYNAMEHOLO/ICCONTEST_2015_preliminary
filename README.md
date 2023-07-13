@@ -1,5 +1,5 @@
 # ICCONTEST_2015_preliminary
-## CB(Counting the number of vertex covers by set-theoretic operations of multiple circle graph)。
+## CB (Counting the number of vertex covers by set-theoretic operations of multiple circle graph)。
 ### 本題講述一個圓形頂點集合偵測電路，簡單來說題目指定有4個MODE分別找出三個不同圓的集合所產生的條件，詳細的演算法請見參賽題目說明的PDF檔案。
 ### 本題要求面積低於9000為 CLASS A, 且要求時間必須低於 10ns .
  
